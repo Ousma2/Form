@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(inscription.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section{
+    width: 620px;
+    height: 600px;
+    border-top-right-radius: 0%;
+    border-top-left-radius:0% ;
+    border-bottom-left-radius: 0%;
+    text-align: center;
+    justify-content: center;
+    padding: 80px;
+    align-items: center;
+    border-color: rgb(35, 56, 73);
+    background: rgb(22, 53, 57);
+    color: white;
+    opacity: 60%;
+}
+input{
+    background: rgb(0, 0, 0);
+    width: 300px;
+    height: 25px;
+    margin: auto;
+    color: rgb(112, 66, 66);
+    
+
+}
+button{
+    background: rgb(16, 14, 14);
+    margin: 50px;
+    width: 200px;
+    height: 35px;
+    color: aqua;
+}
+.pom{
+    margin: 40px;
+}
+.pom1{
+    margin: 50px;
+}
+a{
+    color: rgb(193, 185, 185);
+}
+img{
+    width: 100%;
+    height: 100%;
+}

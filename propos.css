@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+body{
+    background: url(accueil.jpg);
+    background-size: cover;
+    background-position: center;
+    background-position: fixed;
+
+}
+nav{
+    height: 45px;
+    width: 100%;
+    background: rgb(46, 59, 79);
+    opacity: 50%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 0%;
+}
+a{
+    
+    margin: 7px;
+    padding: 7px;
+    color: white;
+    font-size: 20px;
+}
+section{
+    margin: 15%;
+    width: 35%;
+    height: 35%;
+    border-top-right-radius: 20%;
+    border-top-left-radius:0% ;
+    border-bottom-left-radius: 20%;
+    text-align: center;
+    justify-content: center;
+    padding: 10%;
+    align-items: center;
+    border-color: rgb(35, 56, 73);
+    background: rgb(48, 172, 172);
+    color: rgb(0, 0, 0);
+    opacity: 70%;
+    position: center;
+    padding-left: 10%;
+}
