@@ -8,8 +8,8 @@
 </head>
 <body>
     <nav>
-    <a href="accueuil.php"> Page d'accueuil</a>
-    <a href="inscription.php"> Register</a>
+    <a href="accueuil.html"> Page d'accueuil</a>
+    <a href="inscription.html"> Register</a>
     </nav>
     <section>
                     <div>
