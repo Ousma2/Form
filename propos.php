@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav>
-    <a href="index.html"> Page d'accueuil</a>
+    <a href="index.html"> Page d'accueil</a>
     <a href="inscription.html"> Register</a>
     </nav>
     <section>
